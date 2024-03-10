@@ -2,7 +2,7 @@
 # 🌡️ Welcome to Temperature Conversor - MK 1.0
 ### That's a simple program to convert any type and value of temperature.
 
-## ⚠️ How to use 1?
+## ⚠️ How to use 1:
 > [!CAUTION]
 > See the topics above to run the code correctly!
 
@@ -13,7 +13,7 @@
 
 -4 - Just type: `checkBc` into your terminal and Enjoy!<br />    
 
-## ⚠️ How to use 2?
+## ⚠️ How to use 2:
 > [!CAUTION]
 > See the topics above to run the code correctly!
 
